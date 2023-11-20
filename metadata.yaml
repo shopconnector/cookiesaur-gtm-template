@@ -1,0 +1,6 @@
+homepage: "www.gdprcookiemanager.com"
+documentation: "https://support.gdprcookiemanager.com/"
+versions:
+#  latest version
+  - sha: 81a49e01e397fdf59460d485cbe29fad720c9930
+    changeNotes: Initial Version
