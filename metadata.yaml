@@ -1,6 +1,6 @@
 homepage: "https://cookiesaur.com/"
-documentation: "https://support.gdprcookiemanager.com/"
+documentation: "https://support.cookiesaur.com/"
 versions:
 #  latest version
-  - sha: dcc734c9cec2ab979b8a95f1095d20e259117cab
-    changeNotes: Initial Version
+  - sha: a759e25ccdd759f61d62f94dd91b05e565a8bcb4
+    changeNotes: update template
